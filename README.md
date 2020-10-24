@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning different implementations of object detection - Yolo, SSD, etc
 - 🧪 I'm testing different ways to invoke Native code from Java (JNI, JNA, JNR, Panama)
 - 👯 I’m looking to collaborate on any Information Retrieval related projects, just message me anytime about it
+- 🗣️ I'm soom giving a talk at Cambridge Cheminformatics Meeting about effective ways to search similar molecules in Elasticsearch. Details - http://www.c-inf.net/
 
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>
