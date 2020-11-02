@@ -2,7 +2,7 @@
 
 * Highly qualified Search Engineer with 7+ years of experience in creating, supporting, troubleshooting, enhancing several search solutions based on Solr/Lucene/Elastic stacks in different areas like e-commerce, patents, publishing, finance. Deep understanding of the following frameworks internals. Ability to write and create custom Collectors/Scorers/Filters/Analyzers/Tokenizers/Queries
 
-* Able to tune relevancy either by implementing different cutting edge similarities or by optimizing existing model with proved success is this area
+* Able to tune relevancy either by implementing different cutting edge similarities or by optimizing existing model with proved success in this area
 
 * Deeply fascinated by DataScience and ML, combining classical information retrieval with advanced NLP/NLU techniques
 
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning different implementations of object detection - Yolo, SSD, etc
 - 🧪 I'm testing different ways to invoke Native code from Java (JNI, JNA, JNR, Panama)
 - 👯 I’m looking to collaborate on any Information Retrieval related projects, just message me anytime about it
-- 🗣️ I'm soom giving a talk at Cambridge Cheminformatics Meeting about effective ways to search similar molecules in Elasticsearch. Details - http://www.c-inf.net/
+- 🗣️ I'm soon giving a talk at Cambridge Cheminformatics Meeting about effective ways to search similar molecules in Elasticsearch. Details - http://www.c-inf.net/
 
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>
