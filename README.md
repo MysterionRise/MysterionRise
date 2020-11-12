@@ -13,6 +13,7 @@
 - 🧪 I'm testing different ways to invoke Native code from Java (JNI, JNA, JNR, Panama)
 - 👯 I’m looking to collaborate on any Information Retrieval related projects, just message me anytime about it
 - 🗣️ I'm soon giving a talk at Cambridge Cheminformatics Meeting about effective ways to search similar molecules in Elasticsearch. Details - http://www.c-inf.net/
+- 🗣️ I'm soon giving a talk at Zed Conference about effective ways to search similar molecules in Elasticsearch. Details - https://community-z.com/events/zed-conference/talks/6546
 
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>
