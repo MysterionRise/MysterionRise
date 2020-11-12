@@ -17,6 +17,6 @@
 
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/konstantin-p-8b0573142/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sergeytihon" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/story/2663985" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="sergey-tihon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/konstantin-p-8b0573142/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/story/2663985" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30" width="40" /></a>
 </p>
