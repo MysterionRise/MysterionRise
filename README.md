@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Search Engineer
 
-* Highly qualified Search Engineer with 7+ years of experience in creating, supporting, troubleshooting, enhancing several search solutions based on Solr/Lucene/Elastic stacks in different areas like e-commerce, patents, publishing, finance. Deep understanding of the following frameworks internals. Ability to write and create custom Collectors/Scorers/Filters/Analyzers/Tokenizers/Queries
+* Highly qualified Search Engineer with 8+ years of experience in creating, supporting, troubleshooting, enhancing several search solutions based on Solr/Lucene/Elastic stacks in different areas like e-commerce, patents, publishing, finance. Deep understanding of the following frameworks internals. Ability to write and create custom Collectors/Scorers/Filters/Analyzers/Tokenizers/Queries
 
 * Able to tune relevancy either by implementing different cutting edge similarities or by optimizing existing model with proved success in this area
 
