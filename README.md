@@ -6,7 +6,7 @@
 
 * Deeply fascinated by DataScience and ML, combining classical information retrieval with advanced NLP/NLU techniques
 
-* Passionate opensource community supporter (Maven, OpenJDK, Play Framework, Apache Solr, etc)
+* Passionate opensource community supporter (Maven, OpenJDK, Play Framework, Apache Solr, Indigo, Parso etc)
 
 - 🔭 I’m currently working on implementing similarity for molecules in Elasticsearch
 - 🌱 I’m currently learning different implementations of object detection - Yolo, SSD, etc
