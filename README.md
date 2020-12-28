@@ -8,11 +8,12 @@
 
 * Passionate opensource community supporter (Maven, OpenJDK, Play Framework, Apache Solr, Indigo, Parso etc)
 
-- 🔭 I’m currently working on implementing similarity for molecules in Elasticsearch
-- 🤓 I'm currently interested in ways of converting chem names to structure and back
-- 🌱 I’m currently learning different implementations of object detection - Yolo, SSD, etc
-- 🧪 I'm testing different ways to invoke Native code from Java (JNI, JNA, JNR, Panama)
-- 👯 I’m looking to collaborate on any Information Retrieval related projects, just message me anytime about it
+- 🔭 Working on implementing similarity for molecules in Elasticsearch
+- 🤓 Interested in ways of converting chem names to structure and back
+- 🔬 Researching different ways to fingerprint users based on browser available data
+- 🌱 Learning different implementations of object detection - Yolo, SSD, etc
+- 🧪 Testing different ways to invoke Native code from Java (JNI, JNA, JNR, Panama)
+- 👯 Looking to collaborate on any Information Retrieval related projects, just message me anytime about it
 
 * My talks (2020):
 - 🗣️ Talk at Apache Lucene/Solr - London User Group about deploying Solr in complicated multi-region environmentsLink - https://www.meetup.com/Apache-Lucene-Solr-London-User-Group/events/266888836/
