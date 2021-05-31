@@ -8,6 +8,7 @@
 
 * Passionate opensource community supporter (Maven, OpenJDK, Play Framework, Apache Solr, Indigo, Parso etc)
 
+- 🥽 Collaborating with scientific lab on creating VR based experiment
 - 🔭 Working on implementing similarity for molecules in Elasticsearch
 - 🤓 Interested in ways of converting chem names to structure and back
 - 🔬 Researching different ways to fingerprint users based on browser available data
