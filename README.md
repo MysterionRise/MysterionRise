@@ -16,10 +16,11 @@
 - 🧪 Testing different ways to invoke Native code from Java (JNI, JNA, JNR, Panama)
 - 👯 Looking to collaborate on any Information Retrieval related projects, just message me anytime about it
 
-* My talks (2020):
+* My talks:
 - 🗣️ Talk at Apache Lucene/Solr - London User Group about deploying Solr in complicated multi-region environmentsLink - https://www.meetup.com/Apache-Lucene-Solr-London-User-Group/events/266888836/
 - 🗣️ Talk at Cambridge Cheminformatics Meeting about effective ways to search similar molecules in Elasticsearch. Link - https://www.youtube.com/watch?v=2OU1j2EY8M0
 - 🗣️ Talk at Zed Conference about effective ways to search similar molecules in Elasticsearch. Link - https://community-z.com/events/zed-conference/talks/6546
+- 🗣️ Talk at Summer Python meetup about Python generators and how one could build simple search engine on top of it (in Russian) - https://www.youtube.com/watch?v=88WF7MturzM
 
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>
