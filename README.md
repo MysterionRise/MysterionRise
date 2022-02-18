@@ -23,6 +23,7 @@
 - 🗣️ Talk at Summer Python meetup about Python generators and how one could build simple search engine on top of it (in Russian) - https://www.youtube.com/watch?v=88WF7MturzM
 - 🗣️ Talk at Zed Conference 2021 about browser fingerprint and general overview of 3rd party cookies departure. Link - https://community-z.com/events/zed-compass/talks/13615
 - 🗣️ Talk at Zed Conference 2021 about Python generators and simple search engine implementation based on it. Link - https://community-z.com/events/zed-compass/talks/13947
+- 🗣️ Talk at Codeberry Club about CTF competition. Link - https://www.youtube.com/watch?v=Pbi1Zo8qow0
 
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>
