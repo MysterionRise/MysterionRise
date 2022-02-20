@@ -31,6 +31,6 @@
 
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/konstantin-p-8b0573142/" target="blank"><img align="center" src="linkedin.svg" height="30" width="40"/></a>
-<a href="https://stackoverflow.com/users/story/2663985" target="blank"><img align="center" src="stackoverflow.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/konstantin-p-8b0573142/" target="blank"><img align="center" src="linkedin.png" height="30" width="30"/></a>
+<a href="https://stackoverflow.com/users/story/2663985" target="blank"><img align="center" src="stackoverflow.png" height="30" width="30" /></a>
 </p>
