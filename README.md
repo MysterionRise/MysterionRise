@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Search Engineer 
+### Hi there 👋 I'm Principal Search Engineer 
 
 * Highly qualified Search Engineer with 8+ years of experience in creating, supporting, troubleshooting, enhancing several search solutions based on Solr/Lucene/Elastic stacks in different areas like e-commerce, patents, publishing, finance. Deep understanding of the following frameworks internals. Ability to write and create custom Collectors/Scorers/Filters/Analyzers/Tokenizers/Queries
 
