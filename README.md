@@ -9,15 +9,25 @@ Skilled Python developer with an extensive background in the Python ecosystem. P
 Active Open Source community contributor (Maven, OpenJDK, Play Framework, Apache Solr, Indigo, Parso, etc).
 
 🤖 Actively experimenting with ChatGPT API, plugins, and other OpenAI services
+
 🔍 AWS Opensearch expert, with a focus on data access management and performance
+
 📸 Completed projects on image similarity and diving into generative AI and ML
+
 🥽 Collaborating with a scientific lab to develop a VR-based experiment
+
 🔧 Researching natural language intent conversion to structured queries (e.g., SQL)
+
 🌐 Preparing an online demo showcasing various NER and NLP tools (OpenNLP, CoreNLP, Spacy, Flair, etc)
+
 🧪 Implementing molecule similarity in Elasticsearch
+
 🧪 Exploring conversion of chemical names (IUPAC) to structured formats (SMILES) and vice versa
+
 🔬 Investigating browser fingerprinting techniques based on available data
+
 🌉 Testing methods to invoke native code from Java (JNI, JNA, JNR, Panama)
+
 🤝 Open to collaborating on information retrieval projects – feel free to reach out anytime!
 
 <br>
