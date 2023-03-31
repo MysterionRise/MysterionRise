@@ -1,21 +1,24 @@
 ### Hi there 👋 I'm Principal Search Engineer 
 
-* Highly qualified Search Engineer with 8+ years of experience in creating, supporting, troubleshooting, enhancing several search solutions based on Solr/Lucene/Elastic stacks in different areas like e-commerce, patents, publishing, finance. Deep understanding of the following frameworks internals. Ability to write and create custom Collectors/Scorers/Filters/Analyzers/Tokenizers/Queries
+Principal Search Engineer with 10+ years of experience in designing, supporting, and optimising search solutions across diverse industries such as e-commerce, patents, publishing, and finance. Proficient in Solr/Lucene/Elastic stacks and experienced in customizing Collectors, Scorers, Filters, Analyzers, Tokenizers, and Queries.
 
-* Able to tune relevancy either by implementing different cutting edge similarities or by optimizing existing model with proved success in this area
+Expertise in AWS Opensearch and proven success in data access management and performance optimization for Elastic-based platforms. Adept at tuning relevancy through cutting-edge similarities or by refining existing models.
 
-* Deeply fascinated by DataScience and ML, combining classical information retrieval with advanced NLP/NLU techniques
+Skilled Python developer with an extensive background in the Python ecosystem. Passionate about exploring the intersection of Data Science, ML, NLP, and NLU techniques.
 
-* Passionate opensource community supporter (Maven, OpenJDK, Play Framework, Apache Solr, Indigo, Parso etc)
+Active Open Source community contributor (Maven, OpenJDK, Play Framework, Apache Solr, Indigo, Parso, etc).
 
-- 🥽 Collaborating with scientific lab on creating VR based experiment
-- 🧑🏽 Researching approaches of converting Natural Language Intents to structured queries like SQL
-- ⚙️ Preparing online available demo of different NER and NLP tools such as OpenNLP, CoreNLP, Spacy, Flair, etc
-- 🔭 Working on implementing similarity for molecules in Elasticsearch
-- 🤓 Interested in ways of converting chemical names (IUPAC) to structured format like SMILES and back
-- 🔬 Researching different ways to fingerprint users based on browser available data
-- 🧪 Testing different ways to invoke Native code from Java (JNI, JNA, JNR, Panama)
-- 👯 Looking to collaborate on any Information Retrieval related projects, just message me anytime about it
+🤖 Actively experimenting with ChatGPT API, plugins, and other OpenAI services
+🔍 AWS Opensearch expert, with a focus on data access management and performance
+📸 Completed projects on image similarity and diving into generative AI and ML
+🥽 Collaborating with a scientific lab to develop a VR-based experiment
+🔧 Researching natural language intent conversion to structured queries (e.g., SQL)
+🌐 Preparing an online demo showcasing various NER and NLP tools (OpenNLP, CoreNLP, Spacy, Flair, etc)
+🧪 Implementing molecule similarity in Elasticsearch
+🧪 Exploring conversion of chemical names (IUPAC) to structured formats (SMILES) and vice versa
+🔬 Investigating browser fingerprinting techniques based on available data
+🌉 Testing methods to invoke native code from Java (JNI, JNA, JNR, Panama)
+🤝 Open to collaborating on information retrieval projects – feel free to reach out anytime!
 
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MysterionRise&theme=dark&show_icons=true&count_private=true&include_all_commits=true" /></a></p>
