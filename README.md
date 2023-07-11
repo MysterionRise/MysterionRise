@@ -31,7 +31,14 @@ Active Open Source community contributor (Maven, OpenJDK, Play Framework, Apache
 🤝 Open to collaborating on information retrieval projects – feel free to reach out anytime!
 
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MysterionRise&theme=dark&show_icons=true&count_private=true&include_all_commits=true" /></a></p>
+
+## 📊 GitHub Stats 
+
+![](https://github-readme-stats.vercel.app/api?username=MysterionRise&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MysterionRise&theme=dark&hide_border=false)<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MysterionRise&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## My talks:
 
