@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Principal Search Engineer 
 
+Expert in GenAI with 5+ GenAI and LLM products launched in the production since 2022
+
 Principal Search Engineer with 10+ years of experience in designing, supporting, and optimising search solutions across diverse industries such as e-commerce, patents, publishing, and finance. Proficient in Solr/Lucene/Elastic stacks and experienced in customizing Collectors, Scorers, Filters, Analyzers, Tokenizers, and Queries.
 
 Expertise in AWS Opensearch and proven success in data access management and performance optimization for Elastic-based platforms. Adept at tuning relevancy through cutting-edge similarities or by refining existing models.
