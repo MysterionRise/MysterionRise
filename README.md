@@ -1,59 +1,72 @@
-### Hi there 👋 I'm Principal Search Engineer 
+# Hi there, I'm a Principal AI & Search Engineer 👋
 
-Expert in GenAI with 5+ GenAI and LLM products launched in the production since 2022
+> **Architecting the intersection of Information Retrieval and Generative AI.**
 
-Principal Search Engineer with 10+ years of experience in designing, supporting, and optimising search solutions across diverse industries such as e-commerce, patents, publishing, and finance. Proficient in Solr/Lucene/Elastic stacks and experienced in customizing Collectors, Scorers, Filters, Analyzers, Tokenizers, and Queries.
+With over a decade of experience in Search (Solr/Elasticsearch/OpenSearch), I have pivoted to engineering production-grade GenAI systems. For the last 5 years, I specialize in building **Retrieval-Augmented Generation (RAG)** platforms, scaling **LLM agents**, and optimizing **vector search** for enterprise environments.
 
-Expertise in AWS Opensearch and proven success in data access management and performance optimization for Elastic-based platforms. Adept at tuning relevancy through cutting-edge similarities or by refining existing models.
+My focus is moving beyond "prompt engineering" to build robust, secure, and observable AI architectures that solve complex data access problems.
 
-Skilled Python developer with an extensive background in the Python ecosystem. Passionate about exploring the intersection of Data Science, ML, NLP, and NLU techniques.
+---
 
-Active Open Source community contributor (Maven, OpenJDK, Play Framework, Apache Solr, Indigo, Parso, etc).
+### 🔭 Current Focus & Experiments
 
-🤖 Actively experimenting with ChatGPT API, plugins, and other OpenAI services
+I am currently working on **GraphRAG**, **Local LLM inference**, and **AI Agents**.
 
-🔍 AWS Opensearch expert, with a focus on data access management and performance
+🏴 ctf-kit: An offensive security agent framework that integrates with Claude Code and Copilot. It doesn't just analyze code; it orchestrates collaborative reasoning to detect binary vulnerabilities and synthesize exploit scripts for Capture The Flag challenges in real-time.
 
-📸 Completed projects on image similarity and diving into generative AI and ML
+🧠 Adaptive Knowledge Graph: A neuro-symbolic learning engine running entirely on consumer hardware. Fuses structured Knowledge Graphs with LLM reasoning to simulate an AI tutor that adapts to student cognitive states using Bayesian Knowledge Tracing—zero cloud dependency required.
 
-🥽 Collaborating with a scientific lab to develop a VR-based experiment
+🧱 AgentBricks: Architectural primitives for deploying autonomous agents on the Data Lakehouse. Enables LLMs to reason directly over Unity Catalog volumes, turning static enterprise data into active, queryable knowledge assets without data movement. 
 
-🔧 Researching natural language intent conversion to structured queries (e.g., SQL)
+🎙️ whisper-danger-zone: An air-gapped audio intelligence pipeline. Orchestrates state-of-the-art Whisper models with Pyannote diarization to transmute raw audio into speaker-attributed transcripts, ensuring 100% data privacy for sensitive signal processing.
 
-🌐 Preparing an online demo showcasing various NER and NLP tools (OpenNLP, CoreNLP, Spacy, Flair, etc)
+---
 
-🧪 Implementing molecule similarity in Elasticsearch
+### 🛠️ Technical Arsenal
 
-🧪 Exploring conversion of chemical names (IUPAC) to structured formats (SMILES) and vice versa
+| Domain | Stack & Tools |
+| --- | --- |
+| **GenAI & LLM** | Amazon Bedrock, Azure OpenAI, LangChain, RAG Architectures, Local LLMs (Ollama/Llama.cpp), Prompt Security (OWASP) |
+| **Search & Data** | Elasticsearch, OpenSearch, Solr, Lucene, Vector Databases, Hybrid Search (Lexical + Semantic) |
+| **Engineering** | Python (Deep Ecosystem), Java, AWS, Databricks, API Design, System Architecture |
+| **Niche** | Molecule Similarity (Cheminformatics), Browser Fingerprinting, NLP/NER (Spacy, Flair) |
 
-🔬 Investigating browser fingerprinting techniques based on available data
+---
 
-🌉 Testing methods to invoke native code from Java (JNI, JNA, JNR, Panama)
+### 💼 Engineering Highlights
 
-🤝 Open to collaborating on information retrieval projects – feel free to reach out anytime!
+**Principal Engineer | Enterprise GenAI Platform**
 
-<br>
+* **RAG at Scale:** Architected a central RAG API acting as a proxy between internal engineering hubs and Amazon Bedrock. The system aggregates knowledge from tech documentation, metadata, and tooling catalogs to power a developer-focused assistant.
+* **LLM Gateway:** Led the technical strategy for abstracting model providers, allowing teams to switch between models while maintaining consistent security and observability standards.
 
-## 📊 GitHub Stats 
+**GenAI Architect | Blueprint & Security**
 
-![](https://github-readme-stats.vercel.app/api?username=MysterionRise&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MysterionRise&theme=dark&hide_border=false)<br/>
+* **Architecture Strategy:** Spearheaded the "GenAI Blueprint," a reusable architecture used to bootstrap multiple internal applications, including a QnA chatbot and review summarization tools.
+* **Security First:** Implemented strict adherence to OWASP Top 10 for LLMs to mitigate prompt injection and data leakage risks in a corporate environment.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MysterionRise&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+**Search Optimization**
 
-## My talks:
+* **High-Volume Retrieval:** Optimized search and recommendation engines for a leading e-commerce platform, focusing on both "quick win" relevancy tuning and long-term hybrid search transformations to improve customer purchase journeys.
 
-- 🗣️ Talk at Apache Lucene/Solr - London User Group about deploying Solr in complicated multi-region environmentsLink - https://www.meetup.com/Apache-Lucene-Solr-London-User-Group/events/266888836/
-- 🗣️ Talk at Cambridge Cheminformatics Meeting about effective ways to search similar molecules in Elasticsearch. Link - https://www.youtube.com/watch?v=2OU1j2EY8M0
-- 🗣️ Talk about effective ways to search similar molecules in Elasticsearch. Link - https://wearecommunity.io/events/zed-conference/talks/6546
-- 🗣️ Talk at Summer Python meetup about Python generators and how one could build simple search engine on top of it (in Russian) - https://www.youtube.com/watch?v=88WF7MturzM
-- 🗣️ Talk about browser fingerprint and general overview of 3rd party cookies departure. Link - https://wearecommunity.io/events/fingerprinting-privacy-issues-and-3rd-party-cookies-departure/talks/15685
-- 🗣️ Talk about Python generators and simple search engine implementation based on it. Link - https://wearecommunity.io/events/python-generators-how-to-build-simple-search-engine-on-it/talks/15723
-- 🗣️ Talk at Codeberry Club about CTF competition. Link - https://www.youtube.com/watch?v=Pbi1Zo8qow0
+---
+
+### 🗣️ Talks & Public Speaking
+
+I love sharing knowledge about the transition from traditional search to modern AI-driven retrieval.
+
+* **Python Generators for Search Engines** (Summer Python Meetup) - [Watch (RU)](https://www.youtube.com/watch?v=88WF7MturzM) | [Slides](https://wearecommunity.io/events/python-generators-how-to-build-simple-search-engine-on-it/talks/15723)
+* **Deploying Solr in Multi-Region Environments** (Apache Lucene/Solr London) - [Event Link](https://www.meetup.com/Apache-Lucene-Solr-London-User-Group/events/266888836/)
+* **Effective Molecule Search in Elasticsearch** (Cambridge Cheminformatics & Zed Conf) - [Watch](https://www.youtube.com/watch?v=2OU1j2EY8M0) | [Slides](https://wearecommunity.io/events/zed-conference/talks/6546)
+* **Browser Fingerprinting & Privacy** - [Slides](https://wearecommunity.io/events/fingerprinting-privacy-issues-and-3rd-party-cookies-departure/talks/15685)
+* **CTF Competitions** (Codeberry Club) - [Watch](https://www.youtube.com/watch?v=Pbi1Zo8qow0)
 
 
-## Connect with me:
+### 📊 GitHub Stats
+
+
+### 🤝 Connect
+
 <a href="https://www.linkedin.com/in/konstantin-p-8b0573142/" target="blank"><img align="center" src="linkedin.png" height="30" width="30"/></a>
 <a href="https://stackoverflow.com/users/2663985/mysterion?tab=profile" target="blank"><img align="center" src="stackoverflow.png" height="30" width="30" /></a>
 </p>
