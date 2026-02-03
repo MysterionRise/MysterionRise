@@ -26,10 +26,10 @@ I formalize my open-source research under [**@ai-search-lab**](https://github.co
 
 | Project | Capability | The Pitch |
 |---------|------------|-----------|
-| 🏴 **[ctf-kit](https://github.com/ai-search-lab/ctf-kit)** | Automated Red-Teaming | AI-assisted offensive security framework integrating with Claude Code & Copilot for vulnerability detection and exploit synthesis |
-| 🧠 **[adaptive-knowledge-graph](https://github.com/ai-search-lab/adaptive-knowledge-graph)** | Neuro-Symbolic Learning | Zero-cloud engine fusing Knowledge Graphs with LLM reasoning via Bayesian Knowledge Tracing—consumer hardware only |
-| 🧱 **[agentbricks-experiments](https://github.com/ai-search-lab/agentbricks-experiments)** | Lakehouse Agents | Architectural primitives for LLMs reasoning directly over Unity Catalog volumes—enterprise data as active knowledge |
-| 🎙️ **[whisper-danger-zone](https://github.com/ai-search-lab/whisper-danger-zone)** | Sovereign Audio | Air-gapped Whisper + Pyannote pipeline for 100% private speaker-attributed transcription |
+| 🏴 **[ctf-kit](https://github.com/MysterionRise/ctf-kit)** | Automated Red-Teaming | AI-assisted offensive security framework integrating with Claude Code & Copilot for vulnerability detection and exploit synthesis |
+| 🧠 **[adaptive-knowledge-graph](https://github.com/MysterionRise/adaptive-knowledge-graph)** | Neuro-Symbolic Learning | Zero-cloud engine fusing Knowledge Graphs with LLM reasoning via Bayesian Knowledge Tracing—consumer hardware only |
+| 🧱 **[agentbricks-experiments](https://github.com/MysterionRise/agentbricks-experiments)** | Lakehouse Agents | Architectural primitives for LLMs reasoning directly over Unity Catalog volumes—enterprise data as active knowledge |
+| 🎙️ **[whisper-danger-zone](https://github.com/MysterionRise/whisper-danger-zone)** | Sovereign Audio | Air-gapped Whisper + Pyannote pipeline for 100% private speaker-attributed transcription |
 
 **Coming next:** Extending audio pipeline with Qwen TTS/STT for fully local voice interfaces.
 
