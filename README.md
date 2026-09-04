@@ -1,115 +1,68 @@
-# Chief Technologist · AI Engineering
+# Konstantin Perikov — Chief Technologist · AI Engineering & Search
 
-> **"Intelligence is nothing without accurate retrieval and secure boundaries."**
+> **“Intelligence is nothing without accurate retrieval and secure boundaries.”**
 
-I lead technical vision for AI Engineering, mentoring principal engineers and architecting systems that handle the **Hard Trinity** of enterprise AI: **Scale, Sovereignty, and Security**.
+I lead the strategy and architecture of retrieval-heavy AI systems under enterprise constraints: quality, security, data sovereignty, cost, and operability.
 
-After a decade engineering search infrastructure (Solr/Elasticsearch/OpenSearch) at scale, I now focus on what comes next: **RAG architectures that survive adversarial pressure**, **agents that reason over enterprise data**, and **AI that runs where the data lives**.
+My foundation is more than a decade of search engineering across Lucene, Solr, Elasticsearch, and OpenSearch. Today I apply that experience to grounded RAG, agent platforms, local inference, AI evaluation, and secure data boundaries.
 
-I stay sharp through CTF competitions—because the best way to build secure AI is to break it first.
+I think about enterprise AI through three connected constraints: **Scale, Sovereignty, and Security**.
 
----
+| Constraint | Architecture question |
+|---|---|
+| **Scale** | Will retrieval quality, latency, cost, and operations hold up beyond a prototype? |
+| **Sovereignty** | Where may data and inference run, and what leaves each trust boundary? |
+| **Security** | How do identity, tenancy, testing, auditability, and adversarial failure shape the design? |
 
-### 🏛️ The Architecture of Impact
+## What I lead
 
-| Pillar | What It Means | How I Deliver |
-|--------|---------------|---------------|
-| **Scale** | Systems that handle real enterprise load | RAG platforms indexing **50M+ documents**, sub-second retrieval, **10,000+ users** |
-| **Sovereignty** | AI that runs without cloud dependency | Air-gapped pipelines, local LLMs, zero-trust architectures |
-| **Security** | Treating LLM safety as adversarial engineering | Red-teaming, prompt injection defense, OWASP LLM Top 10 |
+- **AI platform strategy:** reference architectures, build-vs-buy decisions, provider portability, governance, and technical roadmaps.
+- **Production architecture:** retrieval, evaluation, observability, identity boundaries, failure modes, and cost-aware model routing.
+- **Engineering organisations:** technical direction, architecture reviews, reusable platform patterns, and mentoring senior and principal engineers.
+- **Applied R&D:** production-shaped prototypes that expose trade-offs before an organisation commits to a platform.
 
----
+My professional work includes centralised RAG and search ecosystems, provider-neutral model gateways spanning managed and local inference, distributed tracing for agent flows, and lexical-to-hybrid search transformations. Employer-specific implementation details and metrics are intentionally generalised here.
 
-### 🔬 R&D Lab: ai-search-lab
+The hands-on foundation includes relevance engineering, multi-region search, JVM/GC tuning, Lucene segment behaviour, and operational debugging under load.
 
-I formalize my open-source research under [**@ai-search-lab**](https://github.com/ai-search-labs)—a "Product Lab" for hardening experimental technology into reusable enterprise patterns.
+## Public architecture evidence
 
-| Project | Capability | The Pitch |
-|---------|------------|-----------|
-| 🏴 **[ctf-kit](https://github.com/MysterionRise/ctf-kit)** | Automated Red-Teaming | AI-assisted offensive security framework integrating with Claude Code & Copilot for vulnerability detection and exploit synthesis |
-| 🧠 **[adaptive-knowledge-graph](https://github.com/MysterionRise/adaptive-knowledge-graph)** | Neuro-Symbolic Learning | Zero-cloud engine fusing Knowledge Graphs with LLM reasoning via Bayesian Knowledge Tracing—consumer hardware only |
-| 🧱 **[agentbricks-experiments](https://github.com/MysterionRise/agentbricks-experiments)** | Lakehouse Agents | Architectural primitives for LLMs reasoning directly over Unity Catalog volumes—enterprise data as active knowledge |
-| 🎙️ **[whisper-danger-zone](https://github.com/MysterionRise/whisper-danger-zone)** | Sovereign Audio | Air-gapped Whisper + Pyannote pipeline for 100% private speaker-attributed transcription |
+| Project | Question it explores | What is inspectable |
+|---|---|---|
+| [forgetest](https://github.com/MysterionRise/forgetest) | How should coding-agent regressions be evaluated without trusting the model’s narrative? | Execution-backed grading, bounded traces, a calibrated Rust task corpus, CI, explicit non-claims, and a versioned release |
+| [encrypted-information-retrieval](https://github.com/MysterionRise/encrypted-information-retrieval) | What does tenant-scoped encrypted retrieval protect—and what does it still leak? | Threat-oriented design, OIDC/KMS paths, audit records, benchmarks, and an explicit evidence ledger |
+| [adaptive-knowledge-graph](https://github.com/MysterionRise/adaptive-knowledge-graph) | When does graph-aware retrieval improve an adaptive-learning loop? | Neo4j + OpenSearch prototype, local-model path, citations, architecture notes, and an evaluation harness |
+| [flavours-of-elastic](https://github.com/MysterionRise/flavours-of-elastic) | How do lexical, dense, and hybrid retrieval trade quality for latency and complexity? | Reproducible BM25/dense/RRF examples, evaluation code, CI, and candid benchmark boundaries |
+| [ctf-kit](https://github.com/MysterionRise/ctf-kit) | How can an AI assistant support repeatable, authorised CTF work? | Installable CLI/plugin, category-specific workflows, security-tool integrations, tests, and CI |
 
-**Coming next:** Extending audio pipeline with Qwen TTS/STT for fully local voice interfaces.
+**Current product bet:** [whystack](https://github.com/MysterionRise/whystack), an evidence-backed workspace for architecture decisions. It is currently a walking skeleton; the next public milestone is a complete decision journey from constraints and evidence to a reviewable recommendation and ADR.
 
----
+## Search lineage
 
-### 🛡️ Engineering Philosophy: Adversarial-First
+Search is not a recent addition to my AI profile. [Information Retrieval Adventure](https://github.com/MysterionRise/information-retrieval-adventure) records work across Lucene, Solr, Elasticsearch, custom analysers, scoring, faceting, and automated version verification. That history shapes how I approach RAG: corpus design, relevance, permissions, latency, and observability matter at least as much as the model call.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  Standard AI Engineering      │  Adversarial-First Engineering  │
-├───────────────────────────────┼─────────────────────────────────┤
-│  Build → Deploy → Hope        │  Build → Break → Harden → Deploy│
-│  "Works on my prompts"        │  "Survives hostile inputs"      │
-│  RAG = embed + retrieve       │  RAG + grounding + hallucination│
-│                               │        detection + guardrails   │
-│  Trust the model              │  Verify, constrain, observe     │
-└───────────────────────────────┴─────────────────────────────────┘
-```
+## Applied research and adversarial practice
 
-I maintain active **CTF practice** (2022→present). The "Danger Zone" repos throughout my profile are deliberate: an Applied Research Sandbox where I stress-test bleeding-edge technology before bringing patterns to enterprise.
+I maintain active CTF practice and use small “Danger Zone” experiments as applied-research sandboxes: places to test emerging tools, failure modes, and security assumptions before promoting a pattern into serious architecture. These are experiments, not production claims.
 
----
+## How I work
 
-### 💼 Engineering Leadership
+1. **Evidence before claims.** Benchmarks need inspectable environments, datasets, methods, and limitations.
+2. **Retrieval is a system.** Relevance, grounding, latency, access control, cost, and failure handling belong in the same decision.
+3. **Trust boundaries are architecture.** Identity, tenancy, data movement, model providers, and observability are first-class concerns.
+4. **Portability is earned through interfaces and tests.** Provider abstraction without behavioural evaluation merely moves lock-in.
+5. **Prototypes should expose the production path.** State what is real, what is simulated, and what evidence is still missing.
 
-**Technical Direction**
-- Define AI architecture strategy across engineering organizations
-- Mentor and develop principal engineers in GenAI best practices
-- Translate OWASP LLM Top 10 defenses into production guardrails and CI/CD pipelines
+## Speaking and community
 
-**Enterprise GenAI Platforms**
-- Architected centralized RAG ecosystem serving **10,000+ internal users**
-- Indexed **50M+ documents** across engineering and product knowledge bases
-- Designed "Federated Model Gateway" abstracting providers (Bedrock, Azure, Local) to prevent vendor lock-in and enable dynamic cost optimization
-- Implemented distributed tracing for non-deterministic agent flows
+- **Panel host:** Innovation Day 2025, “AI Made Real,” Brussels
+- [Python Generators for Search Engines](https://www.youtube.com/watch?v=88WF7MturzM) — Summer Python Meetup
+- [Deploying Solr in Multi-Region Environments](https://www.meetup.com/Apache-Lucene-Solr-London-User-Group/events/266888836/) — Apache Lucene/Solr London
+- [Effective Molecule Search in Elasticsearch](https://www.youtube.com/watch?v=2OU1j2EY8M0) — Cambridge Cheminformatics & Zed Conference
+- [Browser Fingerprinting and Privacy](https://wearecommunity.io/events/fingerprinting-privacy-issues-and-3rd-party-cookies-departure/talks/15685) — Privacy research
+- [CTF Competitions](https://www.youtube.com/watch?v=Pbi1Zo8qow0) — Codeberry Club
 
-**Search at Scale**
-- Led hybrid search transformation (lexical → semantic → unified) for major e-commerce platforms
-- Optimized JVM garbage collection and Lucene segment merging for peak traffic, significantly reducing P99 latency
+## Connect
 
----
-
-### 🛠️ Technical Arsenal
-
-| Domain | Stack |
-|--------|-------|
-| **GenAI & LLM** | Amazon Bedrock · Azure OpenAI · LangGraph · RAG · GraphRAG · Local LLMs (Ollama/Llama.cpp) · OWASP LLM Top 10 |
-| **Search & Retrieval** | Elasticsearch · OpenSearch · Solr · Lucene · Vector DBs · Hybrid Search |
-| **Engineering** | Python · Java · AWS · Databricks · Unity Catalog · System Architecture |
-| **Adversarial** | CTF · Red-Teaming · Prompt Injection Defense · Adversarial ML |
-
----
-
-### 🎤 Thought Leadership
-
-**Recent**
-- 🎙️ **Panel Host** · Innovation Day 2025: AI Made Real (Brussels) — Exploring the intersection of vision, creativity, and technology in AI
-
-**Conference Talks**
-- [Python Generators for Search Engines](https://www.youtube.com/watch?v=88WF7MturzM) · Summer Python Meetup
-- [Deploying Solr in Multi-Region Environments](https://www.meetup.com/Apache-Lucene-Solr-London-User-Group/events/266888836/) · Apache Lucene/Solr London
-- [Effective Molecule Search in Elasticsearch](https://www.youtube.com/watch?v=2OU1j2EY8M0) · Cambridge Cheminformatics & Zed Conf
-- [Browser Fingerprinting & Privacy](https://wearecommunity.io/events/fingerprinting-privacy-issues-and-3rd-party-cookies-departure/talks/15685) · Privacy Research
-- [CTF Competitions](https://www.youtube.com/watch?v=Pbi1Zo8qow0) · Codeberry Club
-
-**Writing** *(coming soon)*
-- Building AI that survives adversarial pressure
-- GraphRAG vs. naive RAG: when knowledge graphs actually matter
-- Local LLM deployment patterns for enterprise privacy requirements
-
----
-
-### 📊 GitHub Stats
-
-<!-- Add your preferred stats cards -->
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight) -->
-
----
-
-### 🤝 Connect
-
-<a href="https://www.linkedin.com/in/konstantin-p-8b0573142/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/2663985/mysterion?tab=profile" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/konstantin-p-8b0573142/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://stackoverflow.com/users/2663985/mysterion?tab=profile"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
