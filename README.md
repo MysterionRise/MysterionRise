@@ -1,9 +1,10 @@
 # Konstantin Perikov
 
-Chief Technologist, AI Engineering & Search.
+## Chief Technologist, AI Engineering & Search
 
-I spent over ten years building and tuning search on Lucene, Solr, Elasticsearch and OpenSearch:
+I spent 15+ years building and tuning search on Lucene, Solr, Elasticsearch and OpenSearch:
 relevance, multi-region clusters, JVM/GC tuning, Lucene segment behaviour, debugging under load.
+
 These days I design retrieval-heavy AI systems for enterprises, where security, data residency
 and cost matter as much as answer quality.
 
