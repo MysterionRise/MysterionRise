@@ -16,6 +16,7 @@ published, so the repos below are where I work through the same problems in the 
 
 | Project | What it is |
 |---|---|
+| [uk-liveability-index](https://github.com/MysterionRise/uk-liveability-index) | Liveability scores for 33,755 English neighbourhoods from about 40 open datasets: a map that recolours as you change the weights, an assistant that answers with generative UI (CopilotKit) over an API and an MCP server, and evals on three models |
 | [adaptive-knowledge-graph](https://github.com/MysterionRise/adaptive-knowledge-graph) | Local-first tutor for open textbooks: Neo4j knowledge graph, hybrid BM25 + vector retrieval in OpenSearch, a local LLM via Ollama, cited answers and adaptive quizzes |
 | [forgetest](https://github.com/MysterionRise/forgetest) | Regression harness for coding agents on a Rust task corpus. It grades by running the code, not by reading the agent's account of what it did |
 | [agentic-search-audit](https://github.com/MysterionRise/agentic-search-audit) | Audits e-commerce site search with Playwright and an LLM judge |
@@ -23,10 +24,8 @@ published, so the repos below are where I work through the same problems in the 
 | [flavours-of-elastic](https://github.com/MysterionRise/flavours-of-elastic) | Docker Compose setups for Elasticsearch and OpenSearch, with BM25, dense and hybrid (RRF) examples and evaluation code |
 | [ctf-kit](https://github.com/MysterionRise/ctf-kit) | AI-assisted CTF toolkit: a CLI plus plugins for Claude Code, Cursor and Copilot that wire in the usual tools per challenge category |
 
-Now building [whystack](https://github.com/MysterionRise/whystack), a workspace that takes an architecture
-decision from constraints and evidence to a reviewable ADR. It is early.
-
-Older search work is in [information-retrieval-adventure](https://github.com/MysterionRise/information-retrieval-adventure).
+Older search work is in [information-retrieval-adventure](https://github.com/MysterionRise/information-retrieval-adventure);
+[whystack](https://github.com/MysterionRise/whystack), a workspace for architecture decisions, is an early side project.
 I play CTFs regularly and follow AI red-teaming closely; the `*-dangerzone` repos are where I try tools out.
 
 ## Talks
